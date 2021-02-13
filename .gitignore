@@ -1,5 +1,3 @@
 .DS_STORE
 *.pdf
-*.xlsx
-*.xls
 .ipynb_checkpoints/
